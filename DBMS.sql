@@ -1,6 +1,6 @@
 ﻿CREATE TABLE DBMS 
 (
-    Query Results	VARCHAR(512)
+    Query Result VARCHAR(512)
 );
 
 INSERT INTO DBMS (Query Results) VALUES
